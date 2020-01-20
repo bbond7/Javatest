@@ -1,6 +1,6 @@
-if(num % 2 == 0) {
-    result('Even Number');
-}else{
-    result('Odd Number')
-}
-console.log(result)
+var x = 10;
+var y = 5;
+
+var addition = x + y;
+console.log(addition);
+
