@@ -1,6 +1,7 @@
-var x = 10;
-var y = 5;
+var x = document.getElementById('input').value
 
-var addition = x + y;
-console.log(addition);
-
+if (x % 2 === 0) {
+    document.getElementById("oddeven").innerText = "Even"
+} else {
+    document.getElementById("oddeven").innerText = "Odd"
+}

@@ -5,6 +5,10 @@ Body {
     text-align: center;
 }
 
+#submit {
+    margin: 3px 3px 3px 3px;
+}
+
 footer {
     font-size: 10px;
     text-align: right;
